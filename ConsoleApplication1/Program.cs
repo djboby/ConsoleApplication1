@@ -12,6 +12,7 @@ namespace ConsoleApplication1
         {
             Console.WriteLine("elso commit");
             Console.WriteLine("masodik commit");
+            Console.WriteLine("harmadik commit");
         }
     }
 }
